@@ -1,0 +1,18 @@
+{
+  "name": "week7_delete",
+  "version": "0.0.1",
+  "description": "week 7 project with delete",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fredy Arvizu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "mongoose": "^5.10.9"
+  }
+}
